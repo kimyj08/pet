@@ -10,7 +10,7 @@ insert into users values('hongkd','1234','홍길동','User');
 
 ALTER TABLE userMember MODIFY um_no number(3) NOT NULL AUTO_INCREMENT;
 ALTER TABLE userMember MODIFY um_no number(3) NOT NULL AUTO_INCREMENT;
-
+select * from users;
 
 
 
